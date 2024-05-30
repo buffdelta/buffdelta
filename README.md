@@ -1,3 +1,5 @@
+<img src="img/switzerland_2023.jpeg" width="400">
+
 # Christopher Williams
 
 ![C](https://img.shields.io/badge/Apprentice-blue?logo=c&labelColor=555&logoColor=blue&style=plastic)
