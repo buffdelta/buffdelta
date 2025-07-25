@@ -8,4 +8,4 @@
 ![Java](https://img.shields.io/badge/Java-Proficient-f8a83b?logo=openjdk&logoColor=f8a83b&style=plastic)
 ![Vim](https://img.shields.io/badge/Vim-Lover-green?logo=vim&logoColor=green&style=plastic)
 
-I am currently a student studying at **CSU**, learning about Computer Science. I enjoy learning about procedural generation and game development.
+I am a recent graduate from **CSU**, with a bachelors degree in Computer Science. I am currently looking for a job to kickstart my career in software development.
